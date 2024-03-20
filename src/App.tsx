@@ -14,11 +14,10 @@ const posts: PostType[] = [
       role: 'Web developer',
     },
     content: [
-      { type: 'paragraph', content: 'Fala galera 👋' },
+      { type: 'paragraph', content: 'Hi 👋' },
       {
         type: 'paragraph',
-        content:
-          'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
+        content: 'Finished a new project using React and Typescript 🚀.',
       },
       { type: 'link', content: 'jane.design/doctorcare' },
     ],
@@ -32,11 +31,10 @@ const posts: PostType[] = [
       role: 'Student',
     },
     content: [
-      { type: 'paragraph', content: 'Segundo conteúdo 👋' },
+      { type: 'paragraph', content: 'Hey guys! 👋' },
       {
         type: 'paragraph',
-        content:
-          'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
+        content: 'Learning a new thing everyday 🚀',
       },
       { type: 'link', content: 'jane.design/doctorcare' },
     ],
