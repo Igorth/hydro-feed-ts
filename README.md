@@ -2,7 +2,9 @@
 
 React + Typescript + CSS
 
-Hydro Feed is an application where you can create posts on any subject, you can leave feedbacks, give a like and delete a comment.
+Hydro Feed is an application where you can create posts on any subject, leave feedback, give a like and delete a comment.
+
+Course [**Rocketseat**](https://app.rocketseat.com.br/home).
 
 ## What I learned
 
@@ -16,7 +18,7 @@ Hydro Feed is an application where you can create posts on any subject, you can 
 
 ## Pre-requirements
 
-It is required to have Node.js, npm, git installed to run this project.
+Node.js and npm are required to run this project.
 
 - [git](https://git-scm.com/) ( I'm using the version `2.43.0` )
 - [Node.js](https://nodejs.org/en/) ( I'm using the version `v20.11.0` )
